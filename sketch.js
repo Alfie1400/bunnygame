@@ -70,7 +70,7 @@ function setup()
     canH = windowHeight
   }
 
-  createCanvas(canW,canH);
+  createCanvas(canW +80,canH);
   
   frameRate(80);
 
